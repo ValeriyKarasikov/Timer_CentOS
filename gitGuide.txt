@@ -1,0 +1,25 @@
+- Navigate to project folder:
+
+$ cd /<project_path>
+
+- Create repository:
+
+$ git init
+
+- Check status:
+
+$ git status
+
+- Add changes ("." - add all files):
+
+$ git add .
+
+- Commit (save files):
+
+$ git commit -m "<message>"
+
+- Show existed commits ("$ q" - to exit):
+
+$ git log
+
+
